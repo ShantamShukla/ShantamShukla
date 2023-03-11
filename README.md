@@ -19,6 +19,7 @@
 <ul>
 <li>Customer Churn Analysis in Telecom Industry using Machine Learning </li>
 <li>Heart Disease Prediction website using Machine Learning and Web Development </li>
+  <li>Gurukul: An online platform for students to identify their weakness and work upon their weak skills.</li>
 <li>Hangman Game Using Python </li>
 </ul>
 
