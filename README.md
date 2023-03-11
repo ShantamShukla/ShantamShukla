@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Shantam Shukla 👋
+I'm a Computer Science and Engineering student currently pursuing my B.Tech degree from VIT Bhopal University. I'm a Full Stack Developer with a keen interest in Machine Learning.
 
-<!--
-**ShantamShukla/ShantamShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+Programming languages: Python, C++
+Web development: HTML, CSS, JavaScript, Node.js, Firebase
+Database Management: MongoDB
+Machine Learning: Libraries like scikit-learn, TensorFlow
+## 🔭 Projects
+Project 1
+Project 2
+Project 3
+## 🌟 Achievements
+[List of your achievements]
+## 📫 How to reach me
+Email: [Your email address]
+LinkedIn: [Your LinkedIn profile]
+## 💬 Let's Connect
+I'm always interested in discussing new ideas and collaborating on interesting projects, so feel free to reach out to me.
 
-Here are some ideas to get you started:
+📝 Resume/CV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=ShantamShukla&show_icons=true&theme=radical" />
+<img align="right" widhth=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantamShukla&hide_progress=true" />
