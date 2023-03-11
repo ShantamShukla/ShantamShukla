@@ -1,4 +1,6 @@
 ![logo](https://github.com/ShantamShukla/ShantamShukla/blob/main/Black%20Minimalist%20Content%20Creator%20LinkedIn%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Shantam Shukla</h1>
 <h3 align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech degree from VIT Bhopal University. I'm a Full Stack Developer with a keen interest in Machine Learning.</h3>
 <p>    </p>
@@ -11,13 +13,20 @@
 <li><strong>Web development:</strong> I have experience in web development and have worked with HTML, CSS, JavaScript, Node.js, and Firebase. I have used Node.js and Firebase to build real-time applications. I find web development to be a fascinating field and I'm always looking to learn more about it.
 <li><strong>Database Management:</strong> I have experience in managing databases using MongoDB. I find the concept of databases to be fascinating and enjoy working with them.
 <li><strong>Machine Learning:</strong> I have a good understanding of machine learning concepts and have worked with libraries like scikit-learn and TensorFlow. I find the field of machine learning to be exciting and I'm always eager to learn more about it.</p>
+
+
 <h3 align="left">🔭 Projects</h3><hr>
-Project 1 <br>
-Project 2 <br>
-Project 3 <br>
-<h3 align="left">🌟 Achievements</h3><hr>
-[Certification 1]: I completed a course on Machine Learning from Coursera and received a certificate.<br>
-[Certification 2]: I completed a course on Full Stack Web Development from Udemy and received a certificate.
+<ul>
+<li>Customer Churn Analysis in Telecom Industry using Machine Learning </li>
+<li>Heart Disease Prediction website using Machine Learning and Web Development </li>
+<li>Hangman Game Using Python </li>
+</ul>
+
+
+<h3 align="left">🌟 Certifications</h3><hr>
+<strong>Applied Machine Learning in Python Certificate:</strong> I completed a course on Machine Learning from Coursera and received a certificate.<br>
+<strong>Supervised Machine Learning Certificate:</strong> Regression and Classification: I completed from Coursera taught by Andrew NG and received a certificate.<br>
+<strong>AI For Everyone Certificate:</strong> I completed from Coursera taught by Andrew NG and received a certificate.
 
 
 
