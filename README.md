@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shantam Shukla</h1>
-<h3 align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech degree from VIT Bhopal University. I'm a Full Stack Developer with a keen interest in Machine Learning.</h3>
+<h3 align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech degree from VIT Bhopal University. I'm a Machine Learning Enthusiast with a keen interest in Full Stack Development.</h3>
 <p>    </p>
 
 <H3 align="left">🚀 Skills</h3><hr>
