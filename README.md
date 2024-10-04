@@ -1,4 +1,4 @@
-![logo]([https://github.com/ShantamShukla/ShantamShukla/blob/main/Black%20Minimalist%20Content%20Creator%20LinkedIn%20Banner.png](https://github.com/ShantamShukla/ShantamShukla/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png))
+![logo](https://github.com/ShantamShukla/ShantamShukla/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Shantam Shukla</h1>
