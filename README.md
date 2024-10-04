@@ -1,48 +1,92 @@
 ![logo](https://github.com/ShantamShukla/ShantamShukla/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
-
 <h1 align="center">Hi 👋, I'm Shantam Shukla</h1>
-<h3 align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech degree from VIT Bhopal University. I'm a Machine Learning Enthusiast with a keen interest in Full Stack Development.</h3>
-<p>    </p>
+<h3 align="center">Data Analyst & Machine Learning Enthusiast | Cloud Certified | Engineering Student</h3>
 
-<H3 align="left">🚀 Skills</h3><hr>
+<p align="center">🔍 I’m passionate about leveraging data and building solutions with Machine Learning. Currently pursuing my B.Tech in Computer Science Engineering from VIT Bhopal University, I focus on applying data science to real-world problems!</p>
+
+---
+
+### 🚀 **Skills & Expertise**
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/ShantamShukla/ShantamShukla/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966.gif">
+
 <ul>
-<li><strong>Programming languages:</strong> I have a good command over Python and C++. I enjoy working with Python and have worked with it on various projects. I like its simple syntax and its versatility, which allows me to do a wide range of tasks like web development, machine learning, and data analysis. C++ is another programming language that I'm proficient in. I have used it in various competitive programming contests and have also used it to develop some projects.
-
-<li><strong>Web development:</strong> I have experience in web development and have worked with HTML, CSS, JavaScript, Node.js, and Firebase. I have used Node.js and Firebase to build real-time applications. I find web development to be a fascinating field and I'm always looking to learn more about it.
-<li><strong>Database Management:</strong> I have experience in managing databases using MongoDB. I find the concept of databases to be fascinating and enjoy working with them.
-<li><strong>Machine Learning:</strong> I have a good understanding of machine learning concepts and have worked with libraries like scikit-learn and TensorFlow. I find the field of machine learning to be exciting and I'm always eager to learn more about it.</p>
-
-
-<h3 align="left">🔭 Projects</h3><hr>
-<ul>
-<li>Customer Churn Analysis in Telecom Industry using Machine Learning </li>
-<li>Heart Disease Prediction website using Machine Learning and Web Development </li>
-  <li>Gurukul: An online platform for students to identify their weakness and work upon their weak skills.</li>
-<li>Hangman Game Using Python </li>
+<li><strong>Programming Languages:</strong> Python, Java, JavaScript, C++</li>
+<li><strong>Data Analysis & Visualization:</strong> SQL (MySQL, PostgreSQL), Power BI, Tableau, Python (Pandas, NumPy, Matplotlib)</li>
+<li><strong>Machine Learning:</strong> TensorFlow, PyTorch, scikit-learn</li>
+<li><strong>Web Development:</strong> ReactJS, Firebase, HTML, CSS, JavaScript</li>
+<li><strong>Cloud Technologies:</strong> AWS, Google Cloud, Microsoft Azure</li>
 </ul>
 
+---
 
-<h3 align="left">🌟 Certifications</h3><hr>
-<strong>Applied Machine Learning in Python Certificate:</strong> I completed a course on Machine Learning from Coursera and received a certificate.<br>
-<strong>Supervised Machine Learning Certificate:</strong> Regression and Classification: I completed from Coursera taught by Andrew NG and received a certificate.<br>
-<strong>AI For Everyone Certificate:</strong> I completed from Coursera taught by Andrew NG and received a certificate.
+### 🔭 **Highlighted Projects**
 
+<div align="center">
 
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Suraksha Setu**](#) <br> _Apr 2024_ | Developed a natural disaster emergency response system reducing bottlenecks by 55%, achieving 77.6% post identification accuracy | **ReactJS, Firebase, MobileNetV2** |
+| [**Data Science Job Market EDA**](#) <br> _Apr 2024_ | Analyzed salary trends from 2021-2023, uncovering a 20% salary growth and identifying top job titles | **Python** |
+| [**Sentiment Analysis on Tweets**](#) <br> _Dec 2023_ | Created Power BI dashboard analyzing 14,000+ tweets, addressing 62.7% negative feedback | **Power BI** |
+| [**Customer Sales Analysis**](#) <br> _Nov 2023_ | Cleaned and analyzed sales data, resulting in a 65% increase in sales and optimized inventory practices | **MySQL, Power BI** |
+| [**H.A.R.T (Heart Anomaly Risk Tracker)**](#) <br> _Jan 2023_ | Developed a heart disease prediction website with 91% accuracy, streamlining content delivery using ML | **HTML/CSS, JavaScript, Firebase** |
+| [**Telecom Customer Churn Prediction**](#) <br> _Oct 2022_ | Achieved 85% accuracy predicting churn using machine learning models trained on 99,999 entries | **Python, scikit-learn** |
 
-<h3 align="left">Languages and Tools:</h3><hr>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<h3 align="left">📫 How to reach me</h3><hr>
-<p align="left">
-<a href="https://twitter.com/Shantam_Shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shantam_Shukla" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shantam-shukla-579790240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shantam_Shukla" height="30" width="40" /></a><p>
-<strong>Email:</strong> shantamshuklagkp@gmail.com<p>
+</div>
 
-<h3 align="left">💬 Let's Connect</h3><hr>
-I'm always interested in discussing new ideas and collaborating on interesting projects, so feel free to reach out to me.<br>
+---
 
-<hr>
+### 🌟 **Certifications**
+<div align="center">
+  
+  ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+  ![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Specialization-4285F4?style=for-the-badge&logo=coursera&logoColor=white)
 
-<img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=ShantamShukla&show_icons=true&theme=radical" />
-<img align="right" widhth=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantamShukla&hide_progress=true" />
+</div>
+
+- **AWS Cloud Practitioner** – AWS, Jan 2024
+- **Google Cloud Digital Leader** – Google, Dec 2023
+- **Applied Machine Learning in Python** – Coursera, Feb 2023
+- **Build Your Generative AI Productivity Skills** – Microsoft & LinkedIn
+- **Supervised Machine Learning** – Coursera, Jan 2023
+
+---
+
+### 📈 **GitHub Stats**
+
+<div align="center">
+
+![Shantam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantamShukla&show_icons=true&theme=radical&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantamShukla&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📫 **Let's Connect**
+
+<p align="center">
+  <a href="mailto:shantamshuklagkp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shantam-shukla-579790240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Shantam_Shukla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+---
+
+### 💬 **Open to Collaborations**
+I’m always excited to work on new ideas in the fields of **Machine Learning, Data Science**, and **Cloud Technologies**. If you’re interested in discussing ideas or starting a project together, feel free to reach out!
+
+---
